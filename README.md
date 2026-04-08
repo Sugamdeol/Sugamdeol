@@ -62,7 +62,7 @@ Passionate developer building AI tools, APIs, and smart web apps — from zero t
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6)" />
 </p>
 
 ---
