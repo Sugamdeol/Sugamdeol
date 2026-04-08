@@ -1,0 +1,15 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # runs every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
