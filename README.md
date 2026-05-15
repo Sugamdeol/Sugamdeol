@@ -47,17 +47,13 @@ Passionate developer building real products from zero to deployed. I turn raw id
 
 ## 🏗️ What I'm Building
 
-### [Jeeniq](https://jeeniq.com) — *Your Home Genie*
+### [Jeeniq](https://jeeniq.in) — *Your Home Genie*
 > **Wish It. We Do It.**
 
 A hyperlocal on-demand home services marketplace built for **Tier 3 & 4 India** — starting from Gajraula, UP. Think Urban Company, but for the 90% of Indian cities it hasn't reached yet.
 
 - 🔧 Services: Plumbing, Electrical, AC Repair, Cleaning, Beauty & more
 - 📱 PWA-first for low-end Android devices & patchy connectivity
-- 💳 UPI-native payments, WhatsApp-based provider onboarding
-- 🗺️ Real-time job dispatch with PostGIS + Supabase Realtime
-- 📦 **Stack**: Vite · React · TypeScript · Tailwind · Supabase · Upstash Redis · Vercel
-
 ---
 
 ## 🤖 Prompt Engineering
