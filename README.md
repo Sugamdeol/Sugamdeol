@@ -1,52 +1,74 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sugam+Deol+%F0%9F%91%8B;Self-taught+Developer;AI+%26+Web+Dev+Enthusiast;Building+in+Public)](https://git.io/typing-svg)
-
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-378ADD?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Building-CalcuBite-1D9E75?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Grinding-JEE%202025-EF9F27?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Building-Jeeniq-1D9E75?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Founder-Hyperlocal%20Services-EF9F27?style=flat-square&labelColor=0a0a0a" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+## ⚡ About Me
 
-Passionate developer building AI tools, APIs, and smart web apps — from zero to deployed. I love converting raw ideas into real, working products. Currently deep in full-stack development while grinding IIT-JEE prep in parallel.
+Passionate developer building real products from zero to deployed. I turn raw ideas into working, scalable systems — currently building **Jeeniq**, a hyperlocal on-demand home services marketplace for Tier 3 & 4 cities in India. Full-stack builder with a bias for action, prompt engineering obsession, and a love for solving unsexy infrastructure problems that actually matter.
 
-```text
-🔭  Building     →  CalcuBite — AI-powered nutrition scanner (calcubite.com)
-🧠  Interested   →  Machine Learning · Prompt Engineering · Real-World AI
-⚙️  Exploring    →  APIs · AI/ML Models · Automation · Full-stack Web Apps
-🌱  Learning     →  Backend Development · Advanced Python
+```
+🔭  Building     →  Jeeniq — Hyperlocal home services for Bharat (Gajraula, UP → India)
+🧠  Interested   →  LLM Agents · Prompt Engineering · Real-World AI · Marketplace Dynamics
+⚙️  Exploring    →  Supabase · Edge Functions · PWA · UPI Payments · PostGIS
+🌱  Learning     →  Startup GTM · Backend Architecture · AI-Augmented Development
+🌍  Vision       →  Building the Urban Company for India's 100+ Tier 3 cities
 ```
 
 ---
 
-### 🛠️ Languages & Runtimes
+## 🛠️ Languages & Runtimes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,linux&theme=dark" />
 </p>
 
-### 🧩 Frameworks & Tools
+## 🧩 Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,flask,mongodb,firebase,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind,flask,supabase,redis&theme=dark" />
 </p>
 
-### 🚀 Platforms & Deploy
+## 🚀 Platforms & Deploy
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,postman,replit,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman,githubactions&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🏗️ What I'm Building
+
+### [Jeeniq](https://jeeniq.com) — *Your Home Genie*
+> **Wish It. We Do It.**
+
+A hyperlocal on-demand home services marketplace built for **Tier 3 & 4 India** — starting from Gajraula, UP. Think Urban Company, but for the 90% of Indian cities it hasn't reached yet.
+
+- 🔧 Services: Plumbing, Electrical, AC Repair, Cleaning, Beauty & more
+- 📱 PWA-first for low-end Android devices & patchy connectivity
+- 💳 UPI-native payments, WhatsApp-based provider onboarding
+- 🗺️ Real-time job dispatch with PostGIS + Supabase Realtime
+- 📦 **Stack**: Vite · React · TypeScript · Tailwind · Supabase · Upstash Redis · Vercel
+
+---
+
+## 🤖 Prompt Engineering
+
+I design production-grade AI agent prompts — including a full **codebase auditing agent** built on Anthropic's SDK with prompt caching, covering security, performance, scalability, UX, and MVP gap detection.
+
+Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://flowgpt.com/u/Sugam) with custom prompts and model experiments.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SugamDeol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=1D9E75" height="170"/>
@@ -59,22 +81,22 @@ Passionate developer building AI tools, APIs, and smart web apps — from zero t
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=Sugamdeol&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### ⚡ Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:sugamdeol.work@gmail.com">
@@ -93,10 +115,8 @@ Passionate developer building AI tools, APIs, and smart web apps — from zero t
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=SugamDeol&color=378ADD&style=flat-square&label=Profile+Views)
-
 <br/>
 
-*"Code. Learn. Build. Repeat."*
+*"Build things that matter for people who've been ignored."*
 
 </div>
