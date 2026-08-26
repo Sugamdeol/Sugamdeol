@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing animation header -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-378ADD?style=flat-square&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/Building-Jeeniq-1D9E75?style=flat-square&labelColor=0a0a0a" />
@@ -13,35 +12,15 @@
 
 ## ⚡ About Me
 
-Passionate developer building real products from zero to deployed. I turn raw ideas into working, scalable systems — currently building **Jeeniq**, a hyperlocal on-demand home services marketplace for Tier 3 & 4 cities in India. Full-stack builder with a bias for action, prompt engineering obsession, and a love for solving unsexy infrastructure problems that actually matter.
+I build real products from zero to deployed — raw idea → working, scalable system. Currently building **Jeeniq**, a hyperlocal on-demand home services marketplace for Tier 3 & 4 India. Full-stack builder with a bias for action, a prompt-engineering obsession, and a love for solving unsexy infrastructure problems that actually matter.
 
 ```
-🔭  Building     →  Jeeniq — Hyperlocal home services for Bharat (Gajraula, UP → India)
+🔭  Building     →  Jeeniq — hyperlocal home services for Bharat (Gajraula, UP → India)
 🧠  Interested   →  LLM Agents · Prompt Engineering · Real-World AI · Marketplace Dynamics
 ⚙️  Exploring    →  Supabase · Edge Functions · PWA · UPI Payments · PostGIS
 🌱  Learning     →  Startup GTM · Backend Architecture · AI-Augmented Development
-🌍  Vision       →  Building the Urban Company for India's 100+ Tier 3 cities
+🌍  Vision       →  The Urban Company for India's 100+ Tier 3 cities
 ```
-
----
-
-## 🛠️ Languages & Runtimes
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,linux&theme=dark" />
-</p>
-
-## 🧩 Frameworks & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind,flask,supabase,redis&theme=dark" />
-</p>
-
-## 🚀 Platforms & Deploy
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman,githubactions&theme=dark" />
-</p>
 
 ---
 
@@ -54,6 +33,84 @@ A hyperlocal on-demand home services marketplace built for **Tier 3 & 4 India** 
 
 - 🔧 Services: Plumbing, Electrical, AC Repair, Cleaning, Beauty & more
 - 📱 PWA-first for low-end Android devices & patchy connectivity
+
+---
+
+## 🌟 Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**[📊 Polli API](https://github.com/Sugamdeol/Polli-api)** · [Live](https://polli-api.vercel.app)
+Real-time API analytics dashboard — requests, response times, trends & user behavior.
+
+</td>
+<td width="50%">
+
+**[🥗 NutriScan AI](https://github.com/Sugamdeol/NutriScan-Ai)** · [Live](https://nutriscanai.vercel.app/)
+Snap your food, get an instant AI-powered nutrition breakdown.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[📝 parchi](https://github.com/Sugamdeol/parchi)** · [Live](https://parchibysd.vercel.app)
+No-login, privacy-first text sharing — likho, chhota link banao, WhatsApp pe bhejo.
+
+</td>
+<td width="50%">
+
+**[🥛 Doodh Diary Hisab](https://github.com/Sugamdeol/doodh-diary-hisab)** · [Live](https://doodhhisabsd.vercel.app)
+PWA for dairy farmers to log milk production & manage monthly hisab.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🎓 JEE Predictor](https://github.com/Sugamdeol/jee-predictor)**
+JEE Mains 2026 percentile & rank predictor with NIT/IIIT cutoff analysis.
+
+</td>
+<td width="50%">
+
+**[🔥 RoastMaster AI](https://github.com/Sugamdeol/roastmaster-ai)** · [Live](https://roastmaster-ai.vercel.app)
+Upload a selfie, get roasted — personas, intensity levels & audio playback.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧰 More projects — APIs, AI tools & experiments</b></summary>
+
+<br/>
+
+**APIs**
+- [🔢 MathWiz API](https://github.com/Sugamdeol/math-wizard-api) — math engine for AI models: solving, plotting, calculus, LaTeX
+- [🎨 Remove BG API](https://github.com/Sugamdeol/remove-bg-api) — image background removal (rembg/ONNX)
+- [🖼️ AI Enhancer API](https://github.com/Sugamdeol/ai-enhacer-api) — 4x image upscaling with RealESRGAN
+- [📧 Email Sender API](https://github.com/Sugamdeol/email-sender-api) — ~135k free emails/month via provider rotation
+- [🎧 TubeTunes API](https://github.com/Sugamdeol/TubeTunesAPI) — YouTube-powered music streaming
+
+**AI Tools**
+- [🥗 CalcuBite](https://github.com/Sugamdeol/CalcuBite) — AI food analysis from photos
+- [📈 AI Indian Stock Market Analyser](https://github.com/Sugamdeol/Ai-Indian-Stock-Market-analyser) — NSE/BSE insights · [Live](https://ai-indian-stock-market-analyser.vercel.app)
+- [📄 PDF Chat AI](https://github.com/Sugamdeol/Pdfchatai) — chat with any PDF · [Live](https://pdfchatai-beta.vercel.app)
+- [🌐 WebSumm AI](https://github.com/Sugamdeol/Websumm) — summarize any webpage · [Live](https://websumm.vercel.app)
+- [🎵 Vocal Music Separator](https://github.com/Sugamdeol/vocal-music-separator-) — split vocals from instrumentals
+
+**Fun & Utility**
+- [✨ Lyrical](https://github.com/Sugamdeol/Lyrics-Card-Generator-) — shareable lyrics card generator · [Live](https://lyrical-sd.vercel.app)
+- [⏳ TimeMachine Beta](https://github.com/Sugamdeol/timemachine-beta-editorial) — the editorial edition · [Live](https://tmbeta.vercel.app)
+- [📧 Gmail Bot](https://github.com/Sugamdeol/gmail-bot) — AI auto-replies for Gmail
+- [🚦 otohit](https://github.com/Sugamdeol/otohit) — OtoHits client on Render
+- [📸 UltraReal Prompt Architect](https://github.com/Sugamdeol/UltraReal-Prompt-Architect) — agent skill for photorealistic prompts
+
+</details>
+
 ---
 
 ## 🤖 Prompt Engineering
@@ -64,15 +121,29 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,linux&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,tailwind,flask,supabase,redis&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman,githubactions&theme=dark" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SugamDeol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=1D9E75" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugamDeol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugamdeol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD&icon_color=1D9E75" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugamdeol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=378ADD" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SugamDeol&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=EF9F27&currStreakLabel=1D9E75" />
+  <img src="https://streak-stats.demolab.com?user=Sugamdeol&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=EF9F27&currStreakLabel=1D9E75" />
 </p>
 
 ---
@@ -80,7 +151,7 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SugamDeol&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sugamdeol&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
