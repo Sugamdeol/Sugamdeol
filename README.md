@@ -158,8 +158,8 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14287](https://github.com/pollinations/pollinations/issues/14287) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-2. ❌ Closed PR [#14295](https://github.com/pollinations/pollinations/pull/14295) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+1. 🎉 Merged PR [#5](https://github.com/Sugamdeol/CalcuBite/pull/5) in [Sugamdeol/CalcuBite](https://github.com/Sugamdeol/CalcuBite)
+2. 💪 Opened PR [#5](https://github.com/Sugamdeol/CalcuBite/pull/5) in [Sugamdeol/CalcuBite](https://github.com/Sugamdeol/CalcuBite)
 3. 💪 Opened PR [#14295](https://github.com/pollinations/pollinations/pull/14295) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
 4. ❌ Closed PR [#14290](https://github.com/pollinations/pollinations/pull/14290) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
 5. 💪 Opened PR [#14290](https://github.com/pollinations/pollinations/pull/14290) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
