@@ -158,11 +158,11 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Sugamdeol/hermes-render/pull/49) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-2. 💪 Opened PR [#49](https://github.com/Sugamdeol/hermes-render/pull/49) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-3. 🎉 Merged PR [#48](https://github.com/Sugamdeol/hermes-render/pull/48) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-4. 💪 Opened PR [#48](https://github.com/Sugamdeol/hermes-render/pull/48) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-5. 🎉 Merged PR [#47](https://github.com/Sugamdeol/hermes-render/pull/47) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+1. 🎉 Merged PR [#50](https://github.com/Sugamdeol/hermes-render/pull/50) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+2. 💪 Opened PR [#50](https://github.com/Sugamdeol/hermes-render/pull/50) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+3. 🎉 Merged PR [#49](https://github.com/Sugamdeol/hermes-render/pull/49) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+4. 💪 Opened PR [#49](https://github.com/Sugamdeol/hermes-render/pull/49) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+5. 🎉 Merged PR [#48](https://github.com/Sugamdeol/hermes-render/pull/48) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
 <!--END_SECTION:activity-->
 
 ---
