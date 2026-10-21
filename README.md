@@ -158,11 +158,11 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/Sugamdeol/hermes-render/pull/85) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-2. 💪 Opened PR [#85](https://github.com/Sugamdeol/hermes-render/pull/85) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-3. 🎉 Merged PR [#84](https://github.com/Sugamdeol/hermes-render/pull/84) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-4. 💪 Opened PR [#84](https://github.com/Sugamdeol/hermes-render/pull/84) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
-5. 🎉 Merged PR [#83](https://github.com/Sugamdeol/hermes-render/pull/83) in [Sugamdeol/hermes-render](https://github.com/Sugamdeol/hermes-render)
+1. 🗣 Commented on [#17733](https://github.com/pollinations/pollinations/pull/17733#issuecomment-6322385047) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+2. 🗣 Commented on [#18032](https://github.com/pollinations/pollinations/issues/18032#issuecomment-6323826551) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+3. ℹ️ Labeled issue [#18032](https://github.com/pollinations/pollinations/issues/18032) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+4. ❗ Opened issue [#18032](https://github.com/pollinations/pollinations/issues/18032) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+5. ℹ️ Labeled issue [#18031](https://github.com/pollinations/pollinations/issues/18031) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
 <!--END_SECTION:activity-->
 
 ---
