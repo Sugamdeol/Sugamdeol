@@ -48,7 +48,7 @@ Real-time API analytics dashboard — requests, response times, trends & user be
 </td>
 <td width="50%">
 
-**[🥗 NutriScan AI](https://github.com/Sugamdeol/NutriScan-Ai)** · [Live](https://nutriscanai.vercel.app/)
+**[🥗 CalcuBite](https://github.com/Sugamdeol/CalcuBite)** · [Live](https://nutriscanai.vercel.app/)
 Snap your food, get an instant AI-powered nutrition breakdown.
 
 </td>
