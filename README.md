@@ -42,8 +42,8 @@ A hyperlocal on-demand home services marketplace built for **Tier 3 & 4 India** 
 <tr>
 <td width="50%">
 
-**[📊 Polli API](https://github.com/Sugamdeol/Polli-api)** · [Live](https://polli-api.vercel.app)
-Real-time API analytics dashboard — requests, response times, trends & user behavior.
+**[📸 UltraReal Prompt Architect](https://github.com/Sugamdeol/UltraReal-Prompt-Architect)**
+Agent skill that turns short ideas into photorealistic image-generation prompts — photography briefs, not keyword dumps.
 
 </td>
 <td width="50%">
