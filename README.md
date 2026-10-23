@@ -157,11 +157,11 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17689](https://github.com/pollinations/pollinations/issues/17689#issuecomment-6338616577) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-2. 🗣 Commented on [#17689](https://github.com/pollinations/pollinations/issues/17689#issuecomment-6333596723) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-3. 💪 Opened PR [#18106](https://github.com/pollinations/pollinations/pull/18106) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-4. 💪 Opened PR [#18105](https://github.com/pollinations/pollinations/pull/18105) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-5. 💪 Opened PR [#18104](https://github.com/pollinations/pollinations/pull/18104) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+1. 🗣 Commented on [#1](https://github.com/Sugamdeol/jee-predictor/issues/1#issuecomment-6353857399) in [Sugamdeol/jee-predictor](https://github.com/Sugamdeol/jee-predictor)
+2. 🔒 Closed issue [#1](https://github.com/Sugamdeol/jee-predictor/issues/1) in [Sugamdeol/jee-predictor](https://github.com/Sugamdeol/jee-predictor)
+3. 🗣 Commented on [#17689](https://github.com/pollinations/pollinations/issues/17689#issuecomment-6338616577) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+4. 🗣 Commented on [#17689](https://github.com/pollinations/pollinations/issues/17689#issuecomment-6333596723) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+5. 💪 Opened PR [#18106](https://github.com/pollinations/pollinations/pull/18106) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
 <!--END_SECTION:activity-->
 
 ---
