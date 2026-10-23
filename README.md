@@ -105,7 +105,6 @@ Upload a selfie, get roasted — personas, intensity levels & audio playback.
 **Fun & Utility**
 - [✨ Lyrical](https://github.com/Sugamdeol/Lyrics-Card-Generator-) — shareable lyrics card generator · [Live](https://lyrical-sd.vercel.app)
 - [📧 Gmail Bot](https://github.com/Sugamdeol/gmail-bot) — AI auto-replies for Gmail
-- [🚦 otohit](https://github.com/Sugamdeol/otohit) — OtoHits client on Render
 - [📸 UltraReal Prompt Architect](https://github.com/Sugamdeol/UltraReal-Prompt-Architect) — agent skill for photorealistic prompts
 
 </details>
