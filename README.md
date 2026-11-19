@@ -157,11 +157,11 @@ Active on [HuggingFace](https://huggingface.co/Sugamdeol) & [FlowGPT](https://fl
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20250](https://github.com/pollinations/pollinations/issues/20250) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-2. ❗ Opened issue [#20096](https://github.com/pollinations/pollinations/issues/20096) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-3. 🗣 Commented on [#20096](https://github.com/pollinations/pollinations/issues/20096#issuecomment-6982046088) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-4. ❗ Opened issue [#20034](https://github.com/pollinations/pollinations/issues/20034) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
-5. 💪 Opened PR [#20029](https://github.com/pollinations/pollinations/pull/20029) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+1. 🗣 Commented on [#20308](https://github.com/pollinations/pollinations/issues/20308#issuecomment-6996758446) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+2. 🗣 Commented on [#20309](https://github.com/pollinations/pollinations/issues/20309#issuecomment-6996757965) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+3. 🗣 Commented on [#20308](https://github.com/pollinations/pollinations/issues/20308#issuecomment-6996788248) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+4. 🔓 Reopened issue [#20308](https://github.com/pollinations/pollinations/issues/20308) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
+5. 🗣 Commented on [#20308](https://github.com/pollinations/pollinations/issues/20308#issuecomment-6996767489) in [pollinations/pollinations](https://github.com/pollinations/pollinations)
 <!--END_SECTION:activity-->
 
 ---
